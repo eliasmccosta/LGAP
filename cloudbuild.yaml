@@ -1,0 +1,36 @@
+steps:
+  - id: Build dockerfile
+    name: gcr.io/cloud-builders/docker
+    args:
+      - build
+      - --tag=gcr.io/${PROJECT_ID}/<MYSITE>:${BRANCH_NAME}
+      - --tag=gcr.io/${PROJECT_ID}/<MYSITE>:${SHORT_SHA}
+      - --tag=gcr.io/${PROJECT_ID}/<MYSITE>:latest
+      - --file=build/Dockerfile
+      - .
+  - id: Push Image
+    name: gcr.io/cloud-builders/docker
+    args:
+      - push
+      - gcr.io/${PROJECT_ID}/<MYSITE>:${SHORT_SHA}
+  - id: Deploy prod
+    name: gcr.io/cloud-builders/gcloud
+    args:
+      - beta
+      - run
+      - deploy
+      - <MYFUNCTION>
+      - --image
+      - gcr.io/${PROJECT_ID}/<MYSITE>:${SHORT_SHA}
+      - --region
+      - europe-west1
+      - --platform
+      - managed
+      --set-env-vars=ENV=prod,URL=<URL TO MY SITE>
+      - --allow-unauthenticated
+      - --memory=256Mi
+      
+images:
+  - gcr.io/${PROJECT_ID}/<MYSITE>:${BRANCH_NAME}
+  - gcr.io/${PROJECT_ID}/<MYSITE>:${SHORT_SHA}
+  - gcr.io/${PROJECT_ID}/<MYSITE>:latest

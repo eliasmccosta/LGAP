@@ -1,0 +1,11 @@
+[context.production.environment]
+	HUGO_VERSION = "0.122.0"
+	HUGO_ENV = "production"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.122.0"
+
+[build]
+	publish = "public"
+	command = "hugo --minify --buildFuture -b https://sapfly.netlify.app"
+
