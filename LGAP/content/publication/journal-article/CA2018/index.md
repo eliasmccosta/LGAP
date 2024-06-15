@@ -5,7 +5,7 @@ title: 'Digital elevation model quality on digital soil mapping prediction accur
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Elias
 - Alessandro Samuel Rosa
 - Lúcia Helena Cunha dos Anjos
   

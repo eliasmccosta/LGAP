@@ -7,7 +7,7 @@ title: 'Use of Airborne Radar Images and Machine Learning Algorithms to Map Soil
 authors:
 - Ana Carolina de S. Ferreira
 - Marcos Bacis Ceddia
-- admin
+- Elias
 - Érika F. M. Pinheiro
 - Mariana Melo do Nascimento
 - Gustavo M. Vasques

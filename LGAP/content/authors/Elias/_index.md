@@ -48,7 +48,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/elias-mendes-costa-3ba13614b/
 superuser: false
-title: Dr. Elias Costa
+title: Elias Mendes Costa
 user_groups:
 - Líderes
 ---
