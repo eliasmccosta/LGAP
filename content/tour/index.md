@@ -1,49 +1,54 @@
 ---
-date: "2022-10-24"
-sections:
-- block: slider
-  content:
-    slides:
-    - align: center
-      background:
-        color: '#666'
-        image:
-          filename: coders.jpg
-          filters:
-            brightness: 0.7
-        position: right
-      content: Dê uma olhada no que estamos trabalhando e veja os projetos que estamos envolvidos
-      title: "\U0001F44B Bem vindo ao LGAP"
-    - align: left
-      background:
-        color: '#555'
-        image:
-          filename: contact.jpg
-          filters:
-            brightness: 0.7
-        position: center
-      content: A unidade do IFTO, situada em Pedro Afonso, realiza pesquisas aplicadas para solucionar problemas enfrentados por empresas e produtores rurais do setor agroindustrial.
-      title: IFTO - Campus Palmas
-    - align: right
-      background:
-        color: '#333'
-        image:
-          filename: welcome.jpg
-          filters:
-            brightness: 0.5
-        position: center
-      content: Este espaço é dedicado ao desenvolvimento de pesquisas, projetos e produtos tecnológicos, além de oferecer aulas aplicadas nas áreas de levantamento e mapeamento de solos, aprendizado de máquina e inteligência artificial (IA) aplicados à agricultura. Também atuamos no campo da geotecnologia aplicada à agricultura e ao meio ambiente. 
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Junte-se a nós
-        url: ./contact/
-      title: Laboratório de GeoTecnologias e Agricultura Preditiva
-  design:
-    interval: 2000
-    is_fullscreen: true
-    loop: false
-    slide_height: ""
 title: Tour
+date: 2022-10-24
+
 type: landing
+
+sections:
+  - block: slider
+    content:
+      slides:
+      - title: 👋 Welcome to the group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Lunch & Learn ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: World-Class Semiconductor Lab
+        content: 'Just opened last month!'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 ---

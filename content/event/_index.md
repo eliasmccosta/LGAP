@@ -1,7 +1,11 @@
 ---
-banner:
-  caption: ""
-  image: ""
-title: Eventos recentes e futuros
+title: Recent & Upcoming Events
+
+# Listing view
 view: compact
+
+# Optional header image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---

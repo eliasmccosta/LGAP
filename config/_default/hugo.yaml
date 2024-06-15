@@ -1,17 +1,16 @@
-theme: "theme-research-group"
 # Configuration of Hugo
 # Guide: https://docs.hugoblox.com/tutorial/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Laboratório de GeoTecnologias e Agricultura Preditiva # Website name
-baseURL: 'https://eliasmcosta.netlify.app/' # Website URL
+title: Wowchemy Research Group # Website name
+baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: pt
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
