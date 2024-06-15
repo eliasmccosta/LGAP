@@ -54,15 +54,15 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://eliasmcosta.netlify.app/author/elias-mendes-costa/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://eliasmcosta.netlify.app/author/erika-f.-m.-pinheiro/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://eliasmcosta.netlify.app/author/gustavo-m.-vasques/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://eliasmcosta.netlify.app/author/lgpa/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -243,9 +243,6 @@
     <loc>https://eliasmcosta.netlify.app/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://eliasmcosta.netlify.app/author/dr.-elias-costa/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://eliasmcosta.netlify.app/author/edson-marinho/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -253,6 +250,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://eliasmcosta.netlify.app/tag/expert-based-systems./</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://eliasmcosta.netlify.app/author/lgpa/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://eliasmcosta.netlify.app/tag/probabilistic-reasoning./</loc>
