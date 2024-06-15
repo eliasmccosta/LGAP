@@ -37,7 +37,7 @@ sections:
         icon: graduation-cap
         icon_pack: fas
         text: Junte-se a nós
-        url: ../contact/
+        url: ./contact/
       title: Laboratório de GeoTecnologias e Agricultura Preditiva
   design:
     interval: 2000
