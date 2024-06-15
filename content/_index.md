@@ -8,18 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Laboratório de GeoTecnologias e Agricultura Preditiva 
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        O **Laboratório de GeoTecnologias e Agricultura Preditiva (LGAP)** é um centro de excelência dedicado ao desenvolvimento de pesquisas, projetos, produtos tecnológicos e aulas aplicadas nas áreas de solos e tecnologia. Composto por pesquisadores, docentes e discentes dos cursos de Técnico em Informática, Técnico em Agropecuária e Bacharelado em Agronomia do IFTO-Campus Pedro Afonso, o LGAP foca em soluções inovadoras para a agricultura.
   
   - block: collection
     content:
-      title: Latest News
+      title: Últimas Notícias
       subtitle:
       text:
       count: 5
@@ -58,7 +57,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Últimos resumos
       text: ""
       count: 5
       filters:

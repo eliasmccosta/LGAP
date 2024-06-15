@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Events | Wowchemy Research Group</title>
-    <link>https://example.com/event/</link>
-      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Events</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <title>Eventos recentes e futuros | Laboratório de GeoTecnologias e Agricultura Preditiva</title>
+    <link>http://localhost:4321/event/</link>
+      <atom:link href="http://localhost:4321/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eventos recentes e futuros</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Sat, 22 Jun 2024 19:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Events</title>
-      <link>https://example.com/event/</link>
+      <url>http://localhost:4321/media/icon_hu0595cb87943b9658efb069ac9567293d_101368_512x512_fill_lanczos_center_3.png</url>
+      <title>Eventos recentes e futuros</title>
+      <link>http://localhost:4321/event/</link>
     </image>
     
     <item>
-      <title>Example Event</title>
-      <link>https://example.com/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>Arraiá do IFTO - Campus Pedro Afonso!</title>
+      <link>http://localhost:4321/event/quadrilha2024/</link>
+      <pubDate>Sat, 22 Jun 2024 19:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/event/quadrilha2024/</guid>
+      <description>&lt;p&gt;Prepare seu traje caipira e venha se divertir no Arraiá do Instituto Federal do Tocantins, Campus Avançado Pedro Afonso! A festança será no dia 22 de junho de 2024, às 19h. Vamos celebrar com muita música, dança, comidas típicas e brincadeiras juninas. Não perca essa oportunidade de curtir uma noite animada com toda a comunidade acadêmica e local.&lt;/p&gt;
+&lt;p&gt;Data: 22 de junho de 2024
+Horário: 19h
+Local: IFTO - Campus Avançado Pedro Afonso&lt;/p&gt;
+&lt;p&gt;Para reservar mesas e mais informações, entre em contato com a Profª Aline Santos pelo WhatsApp (63) 9 9312-4308.&lt;/p&gt;
 </description>
     </item>
     
