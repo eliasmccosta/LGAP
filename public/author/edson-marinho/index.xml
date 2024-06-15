@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edson Marinho | Laboratório de GeoTecnologias e Agricultura Preditiva</title>
+    <link>https://eliasmcosta.netlify.app/author/edson-marinho/</link>
+      <atom:link href="https://eliasmcosta.netlify.app/author/edson-marinho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edson Marinho</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt-br</language>
+    <image>
+      <url>https://eliasmcosta.netlify.app/author/edson-marinho/avatar_hu9a734eb87194bad7fa47123abbd188de_3406_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Edson Marinho</title>
+      <link>https://eliasmcosta.netlify.app/author/edson-marinho/</link>
+    </image>
+    
+  </channel>
+</rss>
