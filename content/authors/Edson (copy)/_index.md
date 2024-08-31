@@ -1,13 +1,13 @@
 ---
-bio: Estudante do 6º Período de Bacharelado em Engenharia Agronômica
+bio: Técnico em Agropecuária com habilidades em programção
   matter.
 education:
   courses:
-  - course: Bacharelado em Engenharia Agronômica
+  - course: Técnico em Agropecuária
     institution: Instituto Federal do Tocantins - Campus Pedro Afonso
     year: 2024
-email: "daniela.parente@estudante.ifto.edu.br"
-first_name: Daniela
+email: "edson.marinho@estudante.ifto.edu.br"
+first_name: Edson
 highlight_name: false
 interests:
 - Agricultura 
@@ -15,15 +15,15 @@ interests:
 - Programação
 - Tecnologia
 
-last_name: Santiago Parente
+last_name: Sousa Marinho
 organizations:
 - name: Instituto Federal do Tocantins
   url: "https://www.ifto.edu.br/pedroafonso"
-role: Agronomia
+role: Técnico em Agropecuária
 social:
 - icon: envelope
   icon_pack: fas
-  link: Santiago Parente
+  link: edson.marinho@estudante.ifto.edu.br
 - icon: instagram
   icon_pack: fab
   link: 
@@ -31,9 +31,9 @@ social:
   icon_pack: fab
   link: 
 superuser: true
-title: Daniela Parente
+title: Edson Marinho
 user_groups:
-- Graduandos
+- Técnicos
 ---
 
-Estudante do 6º Período de Bacharelado em Engenharia Agronômica
+Técnico em Agropecuária com habilidades em programção

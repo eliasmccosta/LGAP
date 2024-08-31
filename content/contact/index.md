@@ -26,7 +26,7 @@ sections:
     office_hours:
     - Segunda 08:00 até 17:00
     - Sexta 08:00 até 17:00
-    phone: 55 (21) 998530064
+    phone: 55 (63) 991013146
     text: Para obter mais informações, oferecer sugestões ou explorar oportunidades de parceria, por favor, não hesite em entrar em contato conosco.
     title: Contato
   design:

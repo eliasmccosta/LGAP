@@ -23,7 +23,7 @@ sections:
             brightness: 0.7
         position: center
       content: A unidade do IFTO, situada em Pedro Afonso, realiza pesquisas aplicadas para solucionar problemas enfrentados por empresas e produtores rurais do setor agroindustrial.
-      title: IFTO - Campus Palmas
+      title: IFTO - Campus Pedro Afonso
     - align: right
       background:
         color: '#333'
