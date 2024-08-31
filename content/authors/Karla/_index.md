@@ -1,13 +1,13 @@
 ---
-bio: Técnico em Agropecuária com habilidades em programção
+bio: Estudante do 8º Período de Bacharelado em Engenharia Agronômica
   matter.
 education:
   courses:
-  - course: Técnico em Agropecuária
+  - course: Bacharelado em Engenharia Agronômica
     institution: Instituto Federal do Tocantins - Campus Pedro Afonso
     year: 2024
-email: "edson.marinho@estudante.ifto.edu.br"
-first_name: Edson
+email: "karla.santos4@estudante.ifto.edu.br"
+first_name: Karla
 highlight_name: false
 interests:
 - Agricultura 
@@ -15,15 +15,15 @@ interests:
 - Programação
 - Tecnologia
 
-last_name: Sousa Marinho
+last_name: Silva dos Santos
 organizations:
 - name: Instituto Federal do Tocantins
   url: "https://www.ifto.edu.br/pedroafonso"
-role: Técnico em Agropecuária
+role: Agronomia
 social:
 - icon: envelope
   icon_pack: fas
-  link: edson.marinho@estudante.ifto.edu.br
+  link: Karla Santos
 - icon: instagram
   icon_pack: fab
   link: 
@@ -31,9 +31,9 @@ social:
   icon_pack: fab
   link: 
 superuser: true
-title: Edson Marinho
+title: Karla Santos
 user_groups:
-- Técnicos
+- Graduandos
 ---
 
-Técnico em Agropecuária com habilidades em programção
+Estudante do 8º Período de Bacharelado em Engenharia Agronômica
