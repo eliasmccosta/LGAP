@@ -1,8 +1,8 @@
 ---
 authors:
 - Helio
-bio: Professor EBTT IFTO- Campus Pedro Afonso
-  matter. Tem experiência na área de engenharia agrícola com ênfase engenharia de água e solo, atuando nos seguintes temas: hidrologia, sensoriamento remoto, hidráulica, bacias hidrográficas. 
+bio: Pesquisador e Professor EBTT - IFTO Pedro Afonso
+  matter. Tem experiência na área de engenharia agrícola com enfase na área de água e solo, atuando nos seguintes temas => hidrologia, sensoriamento remoto, hidráulica, bacias hidrográficas.. 
 education:
   courses:
   - course: Doutorado em Engenharia de Sistemas Agrícolas.

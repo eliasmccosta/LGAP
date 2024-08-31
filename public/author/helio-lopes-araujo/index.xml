@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helio Lopes Araújo | Laboratório de GeoTecnologias e Agricultura Preditiva</title>
+    <link>http://localhost:4321/author/helio-lopes-araujo/</link>
+      <atom:link href="http://localhost:4321/author/helio-lopes-araujo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Helio Lopes Araújo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt-br</language>
+    <image>
+      <url>http://localhost:4321/author/helio-lopes-araujo/avatar_hu71226c828c8cb49629d20726b10be8a0_436555_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Helio Lopes Araújo</title>
+      <link>http://localhost:4321/author/helio-lopes-araujo/</link>
+    </image>
+    
+    <item>
+      <title>Helio Lopes Araújo</title>
+      <link>http://localhost:4321/author/helio-lopes-araujo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/author/helio-lopes-araujo/</guid>
+      <description>&lt;p&gt;Engenheiro Agrícola com experiência na área de água e solo, atuando nos seguintes temas: hidrologia, sensoriamento remoto, hidráulica, bacias hidrográficas.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

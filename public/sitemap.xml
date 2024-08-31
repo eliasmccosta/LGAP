@@ -268,10 +268,19 @@
     <loc>http://localhost:4321/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/author/edson-marinho/</loc>
+    <loc>http://localhost:4321/author/daniela-parente/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/author/helio-lopes-araujo/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/author/karla-santos/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/author/lgpa/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/author/nallandha-nascimento/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

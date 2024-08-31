@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nallandha Nascimento | Laboratório de GeoTecnologias e Agricultura Preditiva</title>
+    <link>http://localhost:4321/author/nallandha-nascimento/</link>
+      <atom:link href="http://localhost:4321/author/nallandha-nascimento/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nallandha Nascimento</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt-br</language>
+    <image>
+      <url>http://localhost:4321/author/nallandha-nascimento/avatar_hu10c07aeb435344bd75d9ffd6f931c60d_4516_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Nallandha Nascimento</title>
+      <link>http://localhost:4321/author/nallandha-nascimento/</link>
+    </image>
+    
+  </channel>
+</rss>
